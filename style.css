@@ -1,0 +1,51 @@
+body{
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+}
+div{
+    border: solid 2px #D6001C;
+    border-radius: 5px;
+    margin: 5px;
+}
+.Bakgrund{
+    background-image: url(snow_winter_trees.jpg);
+    align-items: center;
+    text-align: center;
+    font-family: Mountains of Christmas, monospace;
+    padding-bottom: 60px;
+}
+.Länkar{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.Bilder{
+    border: solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 60px;
+    margin-top: 20px;
+    padding: 5px;
+}
+.Mellan{
+    display: flex;
+    flex-direction: row;
+}
+.webb_utveckling{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.sidfot{
+    padding: 5px;
+}
+.Mitten{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: 25px;
+}
